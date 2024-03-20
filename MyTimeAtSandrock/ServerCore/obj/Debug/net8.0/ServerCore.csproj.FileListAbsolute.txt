@@ -1,0 +1,13 @@
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\bin\Debug\net8.0\ServerCore.dll
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.sourcelink.json
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.dll
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
+D:\Projects\MyTimeAtSandrock\MyTimeAtSandrock\ServerCore\obj\Debug\net8.0\ServerCore.csproj.AssemblyReference.cache

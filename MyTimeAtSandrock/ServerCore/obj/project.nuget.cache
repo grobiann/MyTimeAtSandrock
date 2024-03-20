@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "np0kY8Hm4obOeFIXvaCz7KFZfREtzSxyV8Zn32J4qla5g1N+A7bxZVtiji5ZACQfCpaYKCIjG/6m45PL4ZZkKg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MyTimeAtSandrock\\MyTimeAtSandrock\\ServerCore\\ServerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grobi\\.nuget\\packages\\google.protobuf\\3.26.0\\google.protobuf.3.26.0.nupkg.sha512",
+    "C:\\Users\\grobi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

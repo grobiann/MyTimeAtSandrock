@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZhVI+M48l3ulB8OvqiP8BtHnONn92MqGQvREQROa9q9QaAZV+k0XRmkce9eBZ1zB1C1M0QU3B4rG7VV9NKhcg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MyTimeAtSandrock\\MyTimeAtSandrock\\PacketGenerator\\PacketGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grobi\\.nuget\\packages\\google.protobuf\\3.26.0\\google.protobuf.3.26.0.nupkg.sha512"
+  ],
+  "logs": []
+}
